@@ -1,29 +1,26 @@
-<h1 align="center">👋 Salut, moi c'est Mohammed BOULOUD</h1>
-<h3 align="center">Élève Ingénieur à l'École Hassania des Travaux Publics (EHTP) 🇲🇦</h3>
+<h1 align="center">👋 Hi, I'm Mohammed BOULOUD</h1>
+<h3 align="center">Engineering Student at Hassania School of Public Works (EHTP) 🇲🇦</h3>
 
 <p align="center">
-  <a href="mailto:mohammedbouloud2006@gmail.com">
+  <a href="mailto:bouloud94@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://bld933.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://github.com/BLD933">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### ✨ À propos de moi
+### ✨ About Me
 
-- 🎓 **2<sup>e</sup> année** cycle ingénieur à **l'EHTP Casablanca**
-- 💻 Passionné par le **développement web**, le **génie logiciel** et les **technologies Cloud**
-- 🔍 Actuellement en **recherche de stage** pour mettre en pratique mes compétences techniques
-- 🌱 J'apprends en continu : **DevOps**, **Systèmes distribués**, **IA**
-- 📍 Basé à **Casablanca, Maroc**
+- 🎓 **2nd year** engineering student at **EHTP Casablanca**
+- 💻 Passionate about **web development**, **software engineering**, and **Cloud technologies**
+- 🔍 Currently **seeking an internship** to apply my technical skills in a professional environment
+- 🌱 Continuously learning: **DevOps**, **Distributed Systems**, **AI**
+- 📍 Based in **Casablanca, Morocco**
 
-### 🛠️ Technologies & Outils
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -44,8 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLD933&layout=compact&theme=radical" width="38%" />
 </p>
 
-### 📫 Me contacter
+### 📫 Contact
 
-- **Email** : [mohammedbouloud2006@gmail.com](mailto:mohammedbouloud2006@gmail.com)
-- **Portfolio** : [bld933.github.io/portfolio](https://bld933.github.io/portfolio/)
-- **GitHub** : [github.com/BLD933](https://github.com/BLD933)
+- **Email**: [bouloud94@gmail.com](mailto:bouloud94@gmail.com)
+- **Portfolio**: [bld933.github.io/portfolio](https://bld933.github.io/portfolio/)
