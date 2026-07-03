@@ -37,8 +37,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BLD933&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLD933&layout=compact&theme=radical" width="38%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLD933&theme=radical" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BLD933&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BLD933&theme=radical" width="45%" />
 </p>
 
 ### 📫 Contact
