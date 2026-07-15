@@ -16,7 +16,6 @@
 
 - 🎓 **2nd year** engineering student at **EHTP Casablanca**
 - 💻 Passionate about **web development**, **software engineering**, and **Cloud technologies**
-- 🔍 Currently **seeking an internship** to apply my technical skills in a professional environment
 - 🌱 Continuously learning: **DevOps**, **Distributed Systems**, **AI**
 - 📍 Based in **Casablanca, Morocco**
 
